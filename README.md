@@ -33,12 +33,12 @@ The dataset consists of vocal measurements collected from individuals, including
    ```bash
    jupyter notebook notebooks/parkinson disease.ipynb
 
-##Usage
+## Usage
 Open the notebook to explore exploratory data analysis, data preprocessing, model training, evaluation, and predictions.
 
 Modify or extend models and visualizations as needed.
 
-##Dependencies
+## Dependencies
 pandas
 
 numpy
